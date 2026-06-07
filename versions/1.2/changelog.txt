@@ -1,0 +1,32 @@
+mercz SMP v1.2
+
+Major cleanup, exploration, village, map, and quest compatibility update.
+
+Added:
+- ChoiceTheorem's Overhauled Village
+- Underground Villages / Stoneholm
+- Medieval Buildings Nether Edition
+- Mutant Monsters
+- Terraphilic
+- Quests Additions
+- FTB Chunks x Xaero's Compat
+- XaeroPlus
+- Ping to Map: Xaero's Minimap & Ping Wheel Addon
+- Xaero's Minimap & World Map - Waystones Compatibility
+- Curios Compat Layer for Accessories
+
+Updated:
+- Fresh Animations changed to a different file version.
+
+Removed:
+- Removed Adaptive Performance Tweaks and related APTweaks modules.
+- Removed multiple Loot Integrations addons.
+- Removed several server/chunk optimization mods.
+- Removed smaller utility and compatibility mods that were unnecessary or overlapping.
+
+Config / Pack Changes:
+- Added configs for Mutant Monsters, Medieval Buildings Nether Edition, Underground Villages, XaeroPlus, Ping to Map Xaero, and Quests Additions.
+- Added default FTB config files for FTB Chunks, FTB Essentials, FTB Library, FTB Quests, and FTB x Mod Compat.
+- Added Modpack Update Checker info file.
+- Removed old generated config files from removed mods.
+- Refreshed several existing config files.
