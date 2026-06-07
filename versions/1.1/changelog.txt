@@ -1,0 +1,20 @@
+mercz SMP 1.1
+
+Initial release of the mercz SMP modpack.
+
+Added new mods to improve exploration, progression, world generation, and gameplay variety.
+Added additional compatibility and library mods required for the new content.
+Added new features for mobs, structures, items, and quality-of-life improvements.
+
+Updated multiple mods to newer versions for better stability and compatibility.
+Updated dependencies to match the current modpack version.
+Updated server/client files to reduce mismatched mod list issues.
+
+Removed unused or unnecessary mods.
+Removed client-side-only mods from the server where needed.
+Removed conflicting or outdated files that could cause crashes or connection problems.
+
+Fixed several mod version mismatches between client and server.
+Fixed dependency issues caused by missing required library mods.
+Fixed compatibility problems that were preventing players from joining.
+Improved overall stability for multiplayer gameplay.
