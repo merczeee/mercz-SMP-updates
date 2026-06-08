@@ -31,6 +31,16 @@
         }
       },
       "updateType": "minor"
+    },
+    {
+      "id": "1.2.1",
+      "releasedAt": 1780833600000,
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/mercz-smp/files"
+        }
+      },
+      "updateType": "patch"
     }
   ]
 }
