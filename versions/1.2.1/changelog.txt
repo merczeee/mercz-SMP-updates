@@ -1,0 +1,52 @@
+Mercz SMP v1.2.1 Changelog
+
+Added:
+- Added Curios API
+  - Accessory/equipment API used by many mods.
+  - Helps with compatibility for mods that use extra equipment slots.
+
+- Added Farsight
+  - Allows smoother long-distance chunk viewing/caching.
+  - Added new Farsight config.
+  - Max render distance set to 64.
+  - Chunk preview is disabled by default.
+
+Updated Mods:
+- Collective: 8.22 → 8.23
+- Colorwheel: 1.2.8 → 1.2.9
+- Delightful: 3.7.8 → 3.8.1
+- Every Compat: 2.9.20 → 2.9.23
+- Integrated Dungeons Arise: 2.0.5 → 2.1.0
+- Iron’s Lib: 1.0.2.1 → 1.1.0
+- Iron’s Spells ’n Spellbooks: 3.15.6 → 3.16.0
+- Jade Addons: 5.5.0 → 5.5.1
+- ModernFix: 5.27.40 → 5.27.44
+- Moonlight Lib: 2.16.32 → 2.16.33
+- Project: Vibrant Journeys: 6.2.2 → 6.3.0
+- Sophisticated Backpacks: 3.24.47.1807 → 3.24.48.1821
+- Sophisticated Core: 1.3.41.1934 → 1.3.42.1945
+- Twilight’s Flavor & Delight: 2.2.1 → 2.2.2
+
+Config Changes:
+- Added Farsight config.
+- Updated Delightful config for version 3.8.1.
+  - Added new roe/caviar-related options.
+  - Added pie edible mixin option.
+  - Added new debug pie options.
+  - Removed some older Delightful item options.
+- Updated Iron’s Spells client config.
+  - Added reduced Trial Omen particles option for first person.
+- Updated Stop Rendering mob whitelist list.
+  - Added new Iron’s Spells entities to the available whitelist list.
+- Updated ModernFix config comments/options.
+- Refreshed generated config timestamps for a few config files.
+- Updated Crash Assistant modlist to match the new modpack contents.
+
+Removed:
+- No mods removed.
+
+Summary:
+- This update adds Curios API and Farsight.
+- Several major library, performance, food, dungeon, magic, worldgen, and compatibility mods were updated.
+- No removals were found.
+- This is mostly a maintenance, compatibility, and stability update.
