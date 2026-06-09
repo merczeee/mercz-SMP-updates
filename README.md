@@ -1,61 +1,65 @@
-# Mercz SMP Updates
+# mercz SMP Updates
 
-This repository is used for the **Mercz SMP Modpack Update Checker**.
+This repository is used for update information for the **mercz SMP** Minecraft modpack.
 
-It stores update information for the normal **Mercz SMP** modpack, including the current version, changelog, and update metadata used by the in-game update checker.
+The main purpose of this repo is to provide update metadata, changelogs, and version information for the **normal/server version** of the modpack.
 
-## Current Version
+## Modpack Info
 
-**Mercz SMP v1.3**
+**mercz SMP** is a Forge 1.20.1 survival adventure modpack focused on exploration, bosses, new mobs, better gear, quality-of-life improvements, and multiplayer-friendly progression.
 
-## About Mercz SMP
+The normal version is designed for the official mercz SMP server and removes unnecessary bloat where possible to improve compatibility, stability, and performance.
 
-Mercz SMP is a Forge 1.20.1 survival adventure modpack focused on exploration, bosses, new mobs, progression, quests, quality-of-life features, and multiplayer SMP gameplay.
+## Versions
 
-Version 1.3 focuses on reducing modpack bloat, improving compatibility with the Mercz SMP server, and making the multiplayer experience more stable.
+### Normal Version
 
-## Important
+The **Normal Version** is the main version of mercz SMP.
 
-This repository is **not the modpack download**.
+This version is intended for:
 
-To download the modpack, use the CurseForge page:
+* The official mercz SMP server
+* Multiplayer survival
+* Better compatibility
+* More stable performance
+* The intended server experience
 
-https://www.curseforge.com/minecraft/modpacks/mercz-smp
+This version should be used when joining the mercz SMP server.
+
+**Recommended RAM:** 12 GB
+
+### ALT Version
+
+The **ALT Version** is intended for **singleplayer use only**.
+
+This version may include extra content, heavier features, and added bloat. It is more intensive than the normal version and is not recommended for multiplayer servers.
+
+Use this version with caution because it may cause:
+
+* Lower performance
+* Longer loading times
+* Higher memory usage
+* Multiplayer compatibility issues
+
+**Recommended RAM:** 12 GB or more
+
+## Important Notes
+
+* Minecraft version: **1.20.1**
+* Modloader: **Forge**
+* Use the **Normal Version** for the mercz SMP server.
+* Use the **ALT Version** only for singleplayer.
+* Make sure the correct version is installed before joining the server.
+* 12 GB of RAM is recommended for the current version of the pack.
 
 ## Files in This Repository
 
-### `meta.json`
+This repo may include:
 
-Used by Modpack Update Checker to check the latest available Mercz SMP version.
+* `meta.json` — update metadata used by the modpack updater
+* `changelog.txt` — changelog shown by the updater
+* `README.md` — general information about the modpack and update system
 
-### `changelog.txt`
+## CurseForge Page
 
-Contains the changelog for the latest Mercz SMP update.
-
-## Latest Changelog Summary
-
-### Mercz SMP v1.3
-
-* Reduced unnecessary modpack bloat.
-* Improved compatibility with the Mercz SMP server.
-* Removed extra world generation, structure, shader, visual, and client-side mods that were not needed for the server experience.
-* Added new quest-related mods.
-* Added performance and optimization mods.
-* Added new gameplay content and progression features.
-* Updated several existing mods.
-* Updated Modpack Update Checker information.
-
-## Minecraft Version
-
-**Minecraft:** 1.20.1
-**Forge:** 47.4.20
-
-## Recommended RAM
-
-**8 GB recommended**
-
-## Notes
-
-This repository is only for update checker files.
-
-The alt singleplayer version is separate and is not included in this update repository.
+The modpack is available on CurseForge under **mercz SMP**.
