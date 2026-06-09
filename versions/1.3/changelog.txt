@@ -1,0 +1,43 @@
+mercz SMP v1.3 Changelog
+
+This update focuses on cleaning up the modpack, reducing unnecessary bloat, improving compatibility with the Mercz SMP server, and making the overall multiplayer experience more stable.
+
+Added:
+
+* Added new quest-related mods including Create Questing, ExtraQuests, FTB Pack Companion, FTB Quests Optimizer, and Quest Kill Task Tweaks.
+* Added performance and optimization mods such as AI Improvements, Lagless FPS Optimizer, LightSpeedRe, GeckolibBetterFPS, and Too Many Entities.
+* Added new content mods including Bosses’ Rise, Infernal Mobs, MC Dungeons Armors, Too Many Bows, Villages & Pillages, End Remastered, Endergetic Expansion, and Jaden’s Nether Expansion.
+* Added Sound Physics Remastered for improved sound effects.
+
+Updated:
+
+* Updated Sophisticated Backpacks.
+* Updated Sophisticated Core.
+* Updated Immersive Aircraft.
+* Updated Collective.
+* Updated Vanilla Backport.
+* Updated Areas.
+* Updated Platform.
+* Updated Krypton Reno.
+
+Removed:
+
+* Removed several mods to reduce overall modpack bloat and improve compatibility with the Mercz SMP server.
+* Removed extra world generation, structure, shader, visual, and client-side mods that were not needed for the server experience.
+* Removed mods that could cause unnecessary load, duplicate features, or possible compatibility issues between the client and server.
+* Removed several shader packs and visual add-ons to make the pack lighter.
+* Removed multiple world generation and structure mods to help reduce conflicts and improve server stability.
+* Removed several client-only and quality-of-life mods that were no longer needed.
+
+Config Changes:
+
+* Added new configs for newly added mods.
+* Updated existing configs for compatibility, performance, and modpack cleanup.
+* Updated Modpack Update Checker information for v1.3.
+* Updated modpack-info.txt to show the correct current version.
+
+Notes:
+
+* This is the normal server-compatible Mercz SMP version.
+* This version is intended for use with the Mercz SMP server.
+* The alt singleplayer version is separate and is not included in this changelog.
