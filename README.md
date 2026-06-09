@@ -1,53 +1,61 @@
 # Mercz SMP Updates
 
-This repository is used for Mercz SMP modpack update checking.
+This repository is used for the **Mercz SMP Modpack Update Checker**.
 
-The `meta.json` file is used by the Modpack Update Checker mod to detect new versions of the modpack and direct players to the latest CurseForge download.
+It stores update information for the normal **Mercz SMP** modpack, including the current version, changelog, and update metadata used by the in-game update checker.
 
-## Current Modpack
+## Current Version
 
-**Mercz SMP**  
-Minecraft Forge modpack for a modded survival multiplayer experience.
+**Mercz SMP v1.3**
 
-## Latest Version
+## About Mercz SMP
 
-**Current Version:** 1.2.1
+Mercz SMP is a Forge 1.20.1 survival adventure modpack focused on exploration, bosses, new mobs, progression, quests, quality-of-life features, and multiplayer SMP gameplay.
 
-## Update Metadata
+Version 1.3 focuses on reducing modpack bloat, improving compatibility with the Mercz SMP server, and making the multiplayer experience more stable.
 
-Raw meta.json link:
+## Important
 
-https://raw.githubusercontent.com/merczeee/mercz-SMP-updates/main/meta.json
+This repository is **not the modpack download**.
 
-## Download
+To download the modpack, use the CurseForge page:
 
-Download the latest version of the modpack on CurseForge:
+https://www.curseforge.com/minecraft/modpacks/mercz-smp
 
-https://www.curseforge.com/minecraft/modpacks/mercz-smp/files
+## Files in This Repository
 
-## Version History
+### `meta.json`
 
-### v1.2.1
-- Added Curios API
-- Added Farsight
-- Updated multiple mods
-- Updated configs for compatibility and stability
-- No mods removed
+Used by Modpack Update Checker to check the latest available Mercz SMP version.
 
-### v1.2
-- Updated modpack content and configs
-- Improved compatibility and stability
-- Updated mods from previous versions
+### `changelog.txt`
 
-### v1.1.1
-- Patch update
-- Fixed and updated modpack files
+Contains the changelog for the latest Mercz SMP update.
 
-### v1.1
-- Minor update
-- Added/updated modpack content from the previous release
+## Latest Changelog Summary
+
+### Mercz SMP v1.3
+
+* Reduced unnecessary modpack bloat.
+* Improved compatibility with the Mercz SMP server.
+* Removed extra world generation, structure, shader, visual, and client-side mods that were not needed for the server experience.
+* Added new quest-related mods.
+* Added performance and optimization mods.
+* Added new gameplay content and progression features.
+* Updated several existing mods.
+* Updated Modpack Update Checker information.
+
+## Minecraft Version
+
+**Minecraft:** 1.20.1
+**Forge:** 47.4.20
+
+## Recommended RAM
+
+**8 GB recommended**
 
 ## Notes
 
-This repository is only for update metadata.  
-Modpack files are hosted on CurseForge.
+This repository is only for update checker files.
+
+The alt singleplayer version is separate and is not included in this update repository.
