@@ -1,0 +1,35 @@
+mercz SMP 1.3 (SP) Changelog
+
+Version 1.3 (SP) is the singleplayer-focused version of mercz SMP. This version is made for players who want the larger and more intensive version of the pack with extra content and added features.
+
+Important Notice
+
+* This version is intended for singleplayer use only.
+* This version is not recommended for multiplayer servers.
+* This version is more intensive than the normal/server version.
+* 12 GB of RAM is recommended to run this version.
+* Lower-end PCs may experience longer loading times, lag, or crashes.
+
+Changes
+
+* Added the SP version of mercz SMP.
+* Updated the pack direction for singleplayer-focused gameplay.
+* Added extra content compared to the normal/server version.
+* Included heavier features for a larger modded survival experience.
+* Added more bloat compared to the normal version.
+* Improved the singleplayer experience with more content and features.
+* Separated the SP version from the normal/server version.
+* Clarified that this version should not be used for the official mercz SMP server.
+
+Normal Version vs SP Version
+
+* Normal Version is intended for the official mercz SMP server.
+* SP Version is intended for singleplayer only.
+* Normal Version is built for better compatibility and stability.
+* SP Version is heavier and includes extra content.
+* Normal Version is recommended for multiplayer.
+* SP Version is recommended only for players with stronger PCs.
+
+Summary
+
+mercz SMP 1.3 (SP) is a heavier singleplayer version of the modpack made for players who want the most content possible. This version includes extra features and added bloat, making it more demanding than the normal version. Use this version with caution and allocate at least 12 GB of RAM before launching.
