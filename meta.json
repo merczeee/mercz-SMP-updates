@@ -1,46 +1,56 @@
 {
-  "schemaVersion": 1,
-  "hotfixesFormat": null,
-  "versions": [
-    {
-      "id": "1.1",
-      "releasedAt": 1780574400000,
-      "promotions": {
-        "downloads": {
-          "curseforge": "https://www.curseforge.com/minecraft/modpacks/mercz-smp/files"
-        }
-      },
-      "updateType": "minor"
-    },
-    {
-      "id": "1.1.1",
-      "releasedAt": 1780660800000,
-      "promotions": {
-        "downloads": {
-          "curseforge": "https://www.curseforge.com/minecraft/modpacks/mercz-smp/files"
-        }
-      },
-      "updateType": "patch"
-    },
-    {
-      "id": "1.2",
-      "releasedAt": 1780747200000,
-      "promotions": {
-        "downloads": {
-          "curseforge": "https://www.curseforge.com/minecraft/modpacks/mercz-smp/files"
-        }
-      },
-      "updateType": "minor"
-    },
-    {
-      "id": "1.2.1",
-      "releasedAt": 1780833600000,
-      "promotions": {
-        "downloads": {
-          "curseforge": "https://www.curseforge.com/minecraft/modpacks/mercz-smp/files"
-        }
-      },
-      "updateType": "patch"
-    }
-  ]
+"schemaVersion": 1,
+"hotfixesFormat": null,
+"versions": [
+{
+"id": "1.1",
+"releasedAt": 1780574400000,
+"promotions": {
+"downloads": {
+"curseforge": "https://www.curseforge.com/minecraft/modpacks/mercz-smp/files"
+}
+},
+"updateType": "minor"
+},
+{
+"id": "1.1.1",
+"releasedAt": 1780660800000,
+"promotions": {
+"downloads": {
+"curseforge": "https://www.curseforge.com/minecraft/modpacks/mercz-smp/files"
+}
+},
+"updateType": "patch"
+},
+{
+"id": "1.2",
+"releasedAt": 1780747200000,
+"promotions": {
+"downloads": {
+"curseforge": "https://www.curseforge.com/minecraft/modpacks/mercz-smp/files"
+}
+},
+"updateType": "minor"
+},
+{
+"id": "1.2.1",
+"releasedAt": 1780858800000,
+"promotions": {
+"downloads": {
+"curseforge": "https://www.curseforge.com/minecraft/modpacks/mercz-smp/files"
+}
+},
+"updateType": "patch"
+},
+{
+"id": "1.3",
+"releasedAt": 1780945200000,
+"promotions": {
+"downloads": {
+"curseforge": "https://www.curseforge.com/minecraft/modpacks/mercz-smp/files"
+}
+},
+"updateType": "major"
+}
+]
 }
