@@ -26,7 +26,7 @@ This version is intended for:
 
 This version should be used when joining the mercz SMP server.
 
-**Recommended RAM:** 12 GB
+**Recommended RAM:** 8 GB
 
 ### ALT Version
 
