@@ -1,38 +1,46 @@
-Mercz SMP v1.4
-New Content
-This update focuses on expanding automation, storage progression, exploration, and quality-of-life features while maintaining compatibility with existing worlds.
-Storage & Logistics
-Added Refined Storage
-Added Refined Storage Addons
-Players can now build large-scale digital storage systems, automate item management, and streamline late-game resource handling.
-Create Expansion
-Added several new Create ecosystem addons:
-Create Crafts & Additions
-Create Stuff 'N Additions
-Create: Enchantment Industry
-Create: Ultimate Factory
-Create: Misc & Things
-KubeJS Create
-These additions provide:
-More Create-compatible machinery
-Additional automation options
-Expanded processing chains
-New integration possibilities for future questing and progression
-Exploration
-Added Integrated Dungeons and Structures
-Added Small Ships
-These additions improve world exploration by introducing new structures and enhanced methods of sea travel.
-Quality of Life
-Added XP Tome
-Store and manage experience safely.
-Added Crafting on a Stick
-Portable crafting functionality.
-Added Chimes
-Decorative ambient sound blocks for builds and settlements.
-Technical
-Updated modpack version from v1.3 → v1.4
-Updated Modpack Update Checker configuration files.
-Updated modpack information display to reflect the latest release.
-Recommended
-Existing worlds should remain compatible, but backing up worlds before updating is always recommended.
-Thanks for playing Mercz SMP! 🚀
+# Mercz SMP v1.4 Changelog
+
+## Major Additions
+
+* Added Refined Storage support for advanced digital storage and automation.
+* Expanded the Create mod ecosystem with new Create addons, machines, processing options, and automation features.
+* Added new exploration content with additional structures and improved ocean travel.
+* Added quality-of-life features for portable crafting, XP storage, and decorative ambience.
+
+## Added Mods / Resources
+
+* Refined Storage
+* Refined Storage Addons
+* Create Crafts & Additions
+* Create Stuff 'N Additions
+* Create: Enchantment Industry
+* Create: Ultimate Factory
+* Create: Misc & Things
+* KubeJS Create
+* Small Ships
+* Integrated Dungeons and Structures
+* Chimes
+* XP Tome
+* Crafting on a Stick
+
+## Updated Mods
+
+* No existing CurseForge-listed mods were updated in this version.
+
+## Config / Quality-of-Life Changes
+
+* Updated Modpack Update Checker from v1.3 to v1.4.
+* Updated the in-game modpack info screen to show v1.4.
+* Added new generated configs for newly added mods.
+* Expanded automation and storage progression options.
+* Improved exploration variety with new structures and ship-based travel.
+* Added convenience features for crafting and XP management.
+
+## Removed
+
+* No CurseForge-listed mods were removed in this update.
+
+## Notes
+
+* This update mainly expands the pack with Refined Storage, more Create content, new exploration features, and several quality-of-life additions.
+* Existing worlds should remain compatible, but making a backup before updating is recommended.
