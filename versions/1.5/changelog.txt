@@ -1,0 +1,60 @@
+Mercz SMP v1.5 Changelog
+
+Major Additions
+- Added Cobblemon support and a full Cobblemon content expansion.
+- Added Pokémon-style progression, trainers, gyms, quests, spawn notifications, Pokédex support, and Cobblemon/Create compatibility.
+- Added extra resource pack/UI improvements for visuals, icons, font readability, and dark mode support.
+
+Added Mods / Resources
+- Cobblemon
+- Ascension Megamons (Cobblemon)
+- Cobblemon Capture XP
+- Cobblemon Challenge
+- Cobblemon Counter
+- Cobblemon Integrations
+- Cobblemon Pokédex / Cobbledex
+- Cobblemon Poképedia / Cobblepedia
+- Cobblemon Quests
+- Cobblemon Spawn Notification
+- Cobblemon Unchained
+- CobblemonTrainers
+- CobGyms - Unofficial Cobblemon Gyms
+- Create: Cobblemon Industrialized
+- SimpleTMs: TMs and TRs for Cobblemon
+- Tomtaru's Cobblemon & Farmer's Delight Tweaks
+- Curios API
+- Ksyxis
+- Default Dark Mode
+- Fresh Moves
+- Icon Xaero's
+- Slightly Improved Font
+- The Rename Compat Project
+
+Updated Mods
+- ExtraLib
+- FTB Chunks
+- FTB Library
+- Guard Villagers
+- L_Ender's Cataclysm
+- ModernFix
+- Sophisticated Backpacks
+- Sophisticated Core
+- Van Backport Compat
+- Vanilla Backport
+- Xaero's Minimap
+- Xaero's World Map
+
+Config / Quality-of-Life Changes
+- Updated Modpack Update Checker from v1.4 to v1.5.
+- Updated the in-game modpack info screen to show v1.5.
+- Adjusted fullscreen/borderless display settings for a smoother client experience.
+- Disabled Quark Improved Tooltips to reduce tooltip clutter.
+- Added new generated configs for added compatibility mods.
+- Refreshed several client, rendering, JEI, sound, and performance-related configs.
+
+Removed
+- Removed the local Voxy alpha override jar from the pack files.
+
+Notes
+- No CurseForge-listed mods were removed in this update.
+- This update mainly expands the pack with Cobblemon content while also updating several core, performance, and utility mods.
