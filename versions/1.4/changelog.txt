@@ -1,0 +1,38 @@
+Mercz SMP v1.4
+New Content
+This update focuses on expanding automation, storage progression, exploration, and quality-of-life features while maintaining compatibility with existing worlds.
+Storage & Logistics
+Added Refined Storage
+Added Refined Storage Addons
+Players can now build large-scale digital storage systems, automate item management, and streamline late-game resource handling.
+Create Expansion
+Added several new Create ecosystem addons:
+Create Crafts & Additions
+Create Stuff 'N Additions
+Create: Enchantment Industry
+Create: Ultimate Factory
+Create: Misc & Things
+KubeJS Create
+These additions provide:
+More Create-compatible machinery
+Additional automation options
+Expanded processing chains
+New integration possibilities for future questing and progression
+Exploration
+Added Integrated Dungeons and Structures
+Added Small Ships
+These additions improve world exploration by introducing new structures and enhanced methods of sea travel.
+Quality of Life
+Added XP Tome
+Store and manage experience safely.
+Added Crafting on a Stick
+Portable crafting functionality.
+Added Chimes
+Decorative ambient sound blocks for builds and settlements.
+Technical
+Updated modpack version from v1.3 → v1.4
+Updated Modpack Update Checker configuration files.
+Updated modpack information display to reflect the latest release.
+Recommended
+Existing worlds should remain compatible, but backing up worlds before updating is always recommended.
+Thanks for playing Mercz SMP! 🚀
